@@ -13,7 +13,7 @@ The dataset we'll be using is called "Chest X-Ray Images (Pneumonia)" by Paul Mo
 
 ## Outputs
 
-<img src ='Images/correct_pneumonia.png' width = 450> <img src ='Images/correct_normal.png' width = 400>
+<img src ='Images/correct_pneumonia.png' width = 450>  <img src ='Images/correct_normal.png' width = 400>
 
 
 
@@ -21,8 +21,8 @@ The model uses the VGG-16 pre-trained model and achieves a validation accuracy o
 You can further train the model or use different pre-trained models to compare their results.
 
 ## Notes
-Do note that the results  obtained from this model is not sufficient enought to implement it real-time. 
+* Do note that the results  obtained from this model is not sufficient enought to implement it real-time. 
 
-I welcome you to fork/clone this repository and put your spin on it and further improve it to achieve better results according to your needs.
+* I welcome you to fork/clone this repository and put your spin on it and further improve it to achieve better results according to your needs.
 
 Happy Learning People ! Keep chasing your dreams ! ⭐️
